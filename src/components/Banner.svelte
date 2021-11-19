@@ -40,7 +40,7 @@
     tracking: {
       label: 'Tracking cookies',
       description: 'Used for advertising purposes.',
-      value: true
+      value: false
     },
     analytics: {
       label: 'Analytics cookies',
@@ -51,7 +51,7 @@
     marketing: {
       label: 'Marketing cookies',
       description: 'Used for marketing data.',
-      value: true
+      value: false
     }
   }
 
